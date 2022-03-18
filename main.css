@@ -1,0 +1,31 @@
+
+html, body, h1, ul, li {
+    padding: 0px;
+    border: 0px; 
+    margin: 0px;
+    font-size: 100%;
+    font: inherit;
+    font-family:Playfair ;
+}
+body {
+    background-color: #555555;
+    background-image: url(dorohedoro.jpg);
+    background-position: center top;
+    background-repeat: no-repeat;
+}
+h1{
+    padding-top: 650px;
+    text-align: center;
+    font-size: 60px;
+}
+ul {
+    text-align: center;
+    font-size: 30px; 
+    margin-top: 14px;
+    border: 2px solid #000000
+}
+.topics li {
+    display: inline;
+     height: 50px;
+    
+}
